@@ -10,7 +10,7 @@ This is a command-line interface (CLI) for sending WhatsApp messages using the [
 
 ## Usage
 
-1. Run the CLI: `node index.js`
+1. Run the CLI: `node index.js` or by starting `Start.bat`
 2. Scan the QR code with your WhatsApp account (only need to do this once).
 3. After connecting, you will see the list of available commands.
 
