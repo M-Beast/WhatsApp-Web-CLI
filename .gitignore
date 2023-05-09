@@ -1,0 +1,9 @@
+# Node modules
+node_modules
+package-lock.json
+
+# The session Auth
+.wwebjs_auth
+
+# IDE
+.vscode
