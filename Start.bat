@@ -17,4 +17,4 @@ cd /d %~dp0
 
 echo Starting WhatsApp Bot...
 title WhatsApp Bot
-node bot.js
+node index.js
